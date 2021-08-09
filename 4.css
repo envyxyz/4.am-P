@@ -20,6 +20,9 @@
 	background-repeat: no-repeat;
 }
 
+#menuItemContainer {
+	bottom: 50px
+}
 
 /*Section 1: menu*/
 

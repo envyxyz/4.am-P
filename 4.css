@@ -24,6 +24,15 @@
 	bottom: 50px
 }
 
+#gameMessage{
+	position: fixed;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 125px;
+	font-size: 20px;
+}
+
+
 /*Section 1: menu*/
 
 .mailText {
